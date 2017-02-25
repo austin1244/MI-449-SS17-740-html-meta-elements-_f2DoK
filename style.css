@@ -1,0 +1,25 @@
+.shirt {
+  width: 50%;
+  margin: auto;
+  cursor: pointer;
+}
+.shirt img {
+  border: transparent 3px solid;
+}
+.shirt img:hover {
+  border: orange 3px solid;
+}
+.shirt figure {
+  width: 100%;
+}
+.about {
+  width: 60%;
+  margin: auto;
+}
+.logo {
+  position: relative;
+  text-align: center;
+}
+.logo img {
+  width: 364px;
+}
